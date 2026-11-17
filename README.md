@@ -64,13 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-KOSTAL Solar Electric provides German‑engineered photovoltaic solutions, including solar panels, inverters, wall‑boxes, batteries and complete energy systems for residential and commercial customers. Their products are designed for high efficiency, intelligent energy management and integration with dynamic tariffs, offering customers autonomy and reduced electricity costs. The company emphasizes Made‑in‑Germany quality and offers tools, apps and services to monitor and optimise solar installations.
+KOSTAL Solar Electric GmbH develops and manufactures photovoltaic inverters, battery storage systems, and energy management solutions for residential and commercial customers. Based in Germany, the company emphasizes Made in Germany quality, offering a portfolio that includes solar inverters, wallboxes, battery systems, and integrated solar solutions. Their products focus on reliable energy generation, storage, and smart control, supporting both private homes and businesses in transitioning to renewable energy.
 
-**Areas:** Company
+**Areas:** Company · Solar · Inverters · EnergyStorage · Germany
 
 ## KOSTAL Solar Electric on APIs.io
 
 Everything profiled for KOSTAL Solar Electric is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kostal/](https://apis.io/providers/kostal/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Kostal Solar API](https://apis.io/apis/kostal/kostal-solar-api/) — KOSTAL provides photovoltaic inverter, energy management and storage solutions; documentation is static HTML without machine‑readable specs.
 
 ### Published properties
 
@@ -88,22 +92,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://kostal-solar-electric.com/)
 - [Documentation](https://www.kostal-solar-electric.com/de/)
+- [Support](https://www.kostal-solar-electric.com/de/service-support/)
+- [Blog](https://news.kostal.com/)
+- [Terms of service](https://www.kostal-solar-electric.com/de/impressum/)
 - [Privacy policy](https://www.kostal-solar-electric.com/de/datenschutz/)
 
 ## API Evangelist rating
 
-**Kin Score 5.7** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 12.9** — emerging · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 37.5 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 9.5 |
-| Access clarity | 8.5 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 21.1 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 6.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -118,7 +125,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -130,7 +137,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 3.9** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kostal/](https://apis.io/providers/kostal/).
 
